@@ -1,0 +1,2 @@
+CinemaApp.py || This is just a little program that takes the users details and calculates how much their tickets are and then it does the same with ordering snacks. I have included an option for discounts and VIP etc. This could have alot alot more features and fixing some potential user errors if needed such as when asking for the users age it would cause the program to crash if not an interger is used. (I was just messing around)
+
